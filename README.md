@@ -5,7 +5,8 @@
 </p>
 
 # Survace ✨
-> "One Ring to rule them all... In a good way"
+> One Ring to rule them all...  
+> In a good way.
 
 ## About 📖
 Have you ever found an app `UI` lacking or limited?  
