@@ -38,7 +38,7 @@ service through the interface of a `Telegram` bot.
 
 ### Monetization 💰
 Power comes at a price, let alone a dark one.  
-However, the first taste is always free. 🍪
+But the first taste is always free. 🍪
 
 ---
 
